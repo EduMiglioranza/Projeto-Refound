@@ -28,7 +28,7 @@ The project allows users to add expenses, view a dynamic request list, and autom
 
 # 📸 Preview
 
-![Project Preview](./assets/preview.png)
+![Project Preview](./img/preview.png)
 
 The system includes:
 
